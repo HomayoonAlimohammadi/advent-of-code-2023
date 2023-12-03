@@ -2,6 +2,14 @@
 
 This repo contains the answers to the Advent of Code 2023!
 
-Firts Day:
-- Part 1: 56049
-- Part 2: 54530
+Day 1:
+[x] Part 1
+[x] Part 2
+
+Day 2:
+[x] Part 1
+[x] Part 2
+
+Day 3:
+[x] Part 1
+[ ] Part 2
