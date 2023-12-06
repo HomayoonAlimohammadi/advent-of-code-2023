@@ -21,3 +21,7 @@ Day 4:
 Day 5:
 - [x] Part 1
 - [x] Part 2
+
+Day 6:
+- [x] Part 1
+- [x] Part 2
